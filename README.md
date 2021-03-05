@@ -72,9 +72,9 @@ ou
 $ npm install
 
 ## Rodando
-$ yarn start
+$ yarn dev
 ou
-$ npm run start
+$ npm run dev
 ```
 
 ---
