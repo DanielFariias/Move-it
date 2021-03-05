@@ -25,6 +25,8 @@ Dentro do app você terá ciclos de 25 minutos para fazer suas demandas e ao fim
 # :rocket: Tecnologias
 Tecnologias utilizadas para desenvolver o projeto:
 
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 - [ReactJS](https://pt-br.reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org)
