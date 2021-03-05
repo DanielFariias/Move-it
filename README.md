@@ -26,7 +26,7 @@ Dentro do app você terá ciclos de 25 minutos para fazer suas demandas e ao fim
 Tecnologias utilizadas para desenvolver o projeto:
 
 - [ReactJS](https://pt-br.reactjs.org)
-- [Typescript](typescriptlang.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org)
 
 ---
