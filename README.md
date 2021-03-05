@@ -60,21 +60,23 @@ O Layout foi desenvolvido pelo [Tiago Luchtenberg](https://www.instagram.com/tia
 
 No seu terminal:
 ```bash
-## Clone esse repositório
+# Abra um terminal e copie este repositório com o comando
 $ git clone https://github.com/DanielFariias/Move-it
 
-## Acesse a pasta do projeto no prompt de comando 
+# Acesse a pasta do projeto no prompt de comando 
 $ cd move-it
 
-## Instale as dependências
+# Instale as dependências
 yarn install
 ou
 $ npm install
 
-## Rodando
+# Rode o aplicação
 $ yarn dev
 ou
 $ npm run dev
+
+# Acesse http://localhost:3000 no seu navagador.
 ```
 
 ---
@@ -86,6 +88,7 @@ $ npm run dev
 - Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';
 - Faça push para a sua branch: git push origin minha-feature;
 ```
+---
 
 # :mailbox: Contato	
 
@@ -102,7 +105,6 @@ $ npm run dev
 <a href="https://www.linkedin.com/in/danielfariias/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielfariias" height="30" width="40" /></a>
 <a href="https://app.rocketseat.com.br/me/daniel-farias-1583130833" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/1356/1356604.svg" alt="danielfariias" height="30" width="40" /></a>
 </p>
-
 
 ---
 
