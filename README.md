@@ -88,8 +88,10 @@ $ npm run start
 ```
 
 # :mailbox: Contato	
-[![Linkedin Badge](https://img.shields.io/badge/-DanielFariias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/danielfariias/)](https://www.linkedin.com/in/danielfariias/)
-[![Gmail Badge](https://img.shields.io/badge/-danielfariias15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfariias15@gmail.com)](mailto:danielfariias15@gmail.com)
+<p align="center">
+   [![Linkedin Badge](https://img.shields.io/badge/-DanielFariias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/danielfariias/)](https://www.linkedin.com/in/danielfariias/)
+   [![Gmail Badge](https://img.shields.io/badge/-danielfariias15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfariias15@gmail.com)](mailto:danielfariias15@gmail.com)
+</p>
 
 ---
 
