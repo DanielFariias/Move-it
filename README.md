@@ -105,10 +105,9 @@ $ npm run dev
 <a href="https://dev.to/danielfariias" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="danielfariias" height="30" width="40" /></a>
 <a href="https://codepen.io/danielfariias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="danielfariias" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/danielfariias/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielfariias" height="30" width="40" /></a>
-<a href="https://app.rocketseat.com.br/me/daniel-farias-1583130833" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/1356/1356604.svg" alt="danielfariias" height="30" width="40" /></a>
 </p>
 
 ---
 
->Este projeto foi desenvolvido com ❤️ por **[Daniel Farias](https://github.com/DanielFariias)**, com o instrutor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)** durante a **[Next Level Week # 4 - Trilha ReactJS](https://nextlevelweek.com/)** da **[Rocketseat](https://rocketseat.com.br)** 💜<br> 
-Se te ajudou, dá ⭐, vai me ajudar também 😉
+> Este projeto foi desenvolvido com ❤️ por **[Daniel Farias](https://github.com/DanielFariias)**, com o instrutor **[Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/) **durante a** [Next Level Week # 4 - Trilha ReactJS](https://nextlevelweek.com/)** da **[Rocketseat](https://rocketseat.com.br)** 💜 <br> 
+>Se te ajudou, dá ⭐, vai me ajudar também 😉
