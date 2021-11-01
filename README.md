@@ -33,7 +33,7 @@ Tecnologias utilizadas para desenvolver o projeto:
 
 ---
 
-# :eyes: Demo
+# :computer: Demo
 Deploy no [Vercel](https://moveit-1c5fe8yoq-danielfariias.vercel.app/)
 
 ---
@@ -91,21 +91,6 @@ $ npm run dev
 - Faça push para a sua branch: git push origin minha-feature;
 ```
 ---
-
-# :mailbox: Contato	
-
-[![Linkedin Badge](https://img.shields.io/badge/-DanielFariias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/danielfariias/)](https://www.linkedin.com/in/danielfariias/)
-[![Gmail Badge](https://img.shields.io/badge/-danielfariias15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfariias15@gmail.com)](mailto:danielfariias15@gmail.com)
-
-
----
-
-# Siga-me 
-<p align="center">
-<a href="https://dev.to/danielfariias" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="danielfariias" height="30" width="40" /></a>
-<a href="https://codepen.io/danielfariias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="danielfariias" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/danielfariias/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielfariias" height="30" width="40" /></a>
-</p>
 
 ---
 
