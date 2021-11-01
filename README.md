@@ -40,7 +40,7 @@ Deploy no [Vercel](https://moveit-1c5fe8yoq-danielfariias.vercel.app/)
 
 # :eyes: Preview
 ### Web Screenshot
-<div>
+<div align="center">
    
    <img src="https://user-images.githubusercontent.com/60162736/108933223-89a59900-7629-11eb-93fa-70d4e5aa5627.png" width="400px"> 
    
@@ -51,8 +51,6 @@ Deploy no [Vercel](https://moveit-1c5fe8yoq-danielfariias.vercel.app/)
    <img src="https://user-images.githubusercontent.com/60162736/108933228-8ad6c600-7629-11eb-8a19-f81d764eb008.png" width="400px" align="right">   
    
 </div>
-
-<br>
 
 ---
 
